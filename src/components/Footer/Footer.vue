@@ -78,7 +78,7 @@ import ScrollButton from '@/components/UI/ScrollButton.vue'
         },
         {
             title: 'Услуги',
-            route: '/services-page',
+            route: '/services',
             id: 2
         },
         {

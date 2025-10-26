@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbusiness_suite"]=self["webpackChunkbusiness_suite"]||[]).push([[579],{579:function(s,e,n){n.r(e),n.d(e,{default:function(){return o}});var t=n(641);const u={class:"home"};function c(s,e){return(0,t.uX)(),(0,t.CE)("div",u,[...e[0]||(e[0]=[(0,t.Lk)("p",{class:"home-text"}," Страница пока в разработке ",-1)])])}var r=n(262);const a={},i=(0,r.A)(a,[["render",c],["__scopeId","data-v-20535598"]]);var o=i}}]);
+//# sourceMappingURL=579.edf61725.js.map

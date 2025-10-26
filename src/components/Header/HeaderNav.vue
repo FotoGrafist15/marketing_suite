@@ -148,38 +148,38 @@
         },
         {
             title: 'Услуги',
-            toRoute: '/services-page',
+            toRoute: '/services',
             isNeedArrow: true,
             id: 3,
             childrenItems: [
                 {
                     title: 'Бренд-стратегия',
-                    toRoute: '/services-page/brand-strategy',
+                    toRoute: '/services/brand-strategy',
                     id: 301
                 },
                 {
                     title: 'Маркетинговые исследования',
-                    toRoute: '/services-page/marketing-research',
+                    toRoute: '/services/marketing-research',
                     id: 302
                 },
                 {
                     title: 'Разработка HR бренда',
-                    toRoute: '/services-page/development-brand',
+                    toRoute: '/services/development-brand',
                     id: 303
                 },
                 {
                     title: 'Маркетинговая стратегия',
-                    toRoute: '/services-page/marketing-strategy',
+                    toRoute: '/services/marketing-strategy',
                     id: 304
                 },
                 {
                     title: 'Стратегические сессии',
-                    toRoute: '/services-page/strategy-session',
+                    toRoute: '/services/strategy-session',
                     id: 305
                 },
                 {
                     title: 'Креативные сессии',
-                    toRoute: '/services-page/creative-session',
+                    toRoute: '/services/creative-session',
                     id: 306
                 }
             ]

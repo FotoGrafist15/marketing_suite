@@ -3,14 +3,14 @@ import { createRouter, createWebHashHistory, RouteRecordRaw } from 'vue-router';
 const routes: Array<RouteRecordRaw> = [
   {
     path: '/',
-    component: () => import('@/views/HomePage/HomePage.vue')
+    component: () => import('@/views/Home/Home.vue')
   },
   {
-    path: '/services-page',
-    component: () => import('@/views/Marketing/ServicesPage.vue')
+    path: '/services',
+    component: () => import('@/views/Marketing/Services.vue')
   },
   {
-    path: '/services-page/marketing-strategy',
+    path: '/services/marketing-strategy',
     component: () => import('@/views/Marketing/MarketingStrategy.vue')
   },
   {

@@ -1,5 +1,5 @@
 <template>
-    <div class="services-page">
+    <div class="services">
         <p class="services-text">
             Эта Страница, тоже пока в разработке)
         </p>

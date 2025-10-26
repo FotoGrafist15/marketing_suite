@@ -42,13 +42,13 @@
     }
 
     const pageTitles: PageData[] = [
-        { pattern: '/services-page', title: 'Услуги' },
-        { pattern: '/services-page/brand-strategy', title: 'Бренд-стратегия' },
-        { pattern: '/services-page/marketing-research', title: 'Маркетинговые исследования' },
-        { pattern: '/services-page/development-brand', title: 'Разработка HR бренда' },
-        { pattern: '/services-page/marketing-strategy', title: 'Маркетинговая стратегия' },
-        { pattern: '/services-page/creative-session', title: 'Креативные сессии' },
-        { pattern: '/services-page/strategy-session', title: 'Стратегические сессии' },
+        { pattern: '/services', title: 'Услуги' },
+        { pattern: '/services/brand-strategy', title: 'Бренд-стратегия' },
+        { pattern: '/services/marketing-research', title: 'Маркетинговые исследования' },
+        { pattern: '/services/development-brand', title: 'Разработка HR бренда' },
+        { pattern: '/services/marketing-strategy', title: 'Маркетинговая стратегия' },
+        { pattern: '/services/creative-session', title: 'Креативные сессии' },
+        { pattern: '/services/strategy-session', title: 'Стратегические сессии' },
         { pattern: '/company', title: 'Компания' },
         { pattern: '/company/about', title: 'О компании' },
         { pattern: '/company/team', title: 'Наша команда' },
